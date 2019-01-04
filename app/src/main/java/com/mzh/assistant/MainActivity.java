@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                 mSocket.close();
             }
         } catch (IOException e) {
-            System.out.print("Main---onDestroy:" + e.getMessage());
+            Log.v("Main---onDestroy", e.getMessage());
         }
         super.onDestroy();
     }
