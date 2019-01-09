@@ -11,7 +11,7 @@
 package com.mzh.assistant.utils;
 
 /**
- * 〈一句话功能简述〉<br> 
+ * 〈一句话功能简述〉<br>
  * 〈位操作类〉
  *
  * @author hthn
